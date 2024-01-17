@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="400" height="250"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/susmitha-radha-devi-nunna-55ab57278/">
+  <a href="[https://www.linkedin.com/in/susmitha-radha-devi-nunna-55ab57278/](https://www.linkedin.com/in/akash-kumar-006579229/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
